@@ -15,7 +15,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String TAG = "Bittu";
+    private static final String TAG = "MainActivity";
     TextView textView;
     private String url = "https://jsonplaceholder.typicode.com/";
 
